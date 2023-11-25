@@ -82,7 +82,7 @@ while True:
                                 time.sleep(1)
                                 webbrowser.open("https://pan.baidu.com/s/15DW-wKkEaVtJendow-b7UA")
                             elif c == "3":
-                                
+                                pass
                             elif c == "4":
                                 break
                             else:
