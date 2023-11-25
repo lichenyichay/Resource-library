@@ -82,7 +82,9 @@ while True:
                                 time.sleep(1)
                                 webbrowser.open("https://pan.baidu.com/s/15DW-wKkEaVtJendow-b7UA")
                             elif c == "3":
-                                pass
+                                print("提取码（四位）：sqrt(2)")# 提取码：1414
+                                time.sleep(1)
+                                webbrowser.open("https://pan.baidu.com/s/1IoyH71BLR4X5C_ONJxqedQ")
                             elif c == "4":
                                 break
                             else:
