@@ -25,9 +25,9 @@ while True:
                                 time.sleep(1)
                                 webbrowser.open("https://pan.baidu.com/s/1VSXpJWetXGVcEEQZPWpZcA")
                             elif c == "2":
-                                print("提取码（四位）：office年份版最新的版本（数字）")# 提取码: 2019
+                                print("提取码（四位）：office年份版最新的版本（数字）")# 提取码: 2021
                                 time.sleep(1)
-                                webbrowser.open("https://pan.baidu.com/s/11WIBHg41tKI3bNzClHS7ww")
+                                webbrowser.open("https://pan.baidu.com/s/1gxAyBNZBx2T5rLltVgOWQQ")
                             elif c == "3":
                                 print("提取码（四位）：str(5²) * 2")# 提取码: 2525
                                 time.sleep(1)
