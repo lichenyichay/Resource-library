@@ -149,7 +149,7 @@ while True:
                                 time.sleep(1)
                                 webbrowser.open("https://pan.baidu.com/s/10Qo3RScYHroHXJ9sLrf1ow")
                             elif c == 3:
-                                print("提取码（四位）：66²*2//10") # 提取码: 8712
+                                print("提取码（四位）：66²*2") # 提取码: 8712
                                 time.sleep(1)
                                 webbrowser.open("https://pan.baidu.com/s/1hZB5bxh8AEJ8lE5sEYP0jg")
                             elif c == 4:
@@ -160,7 +160,7 @@ while True:
                         while True:
                             os.system("cls")
                             input36()
-                            c = input("1-《Visual Basic从入门到精通（项目案例版）》\n3-返回上一级\n请输入前面的序号：")
+                            c = input("1-《Visual Basic从入门到精通（项目案例版）》\n2-返回上一级\n请输入前面的序号：")
                             if c == "1":
                                 print("提取码（四位）：95²") # 提取码: 9025
                                 time.sleep(1)
