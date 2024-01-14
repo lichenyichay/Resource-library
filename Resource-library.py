@@ -50,7 +50,7 @@ while True:
                         while True:
                             os.system("cls")
                             input31()
-                            c = input("1-《C++从入门到精通（项目案例版）》\n2-《C语言从入门到精通（项目案例版）》\n3-《Visual C++从入门到精通（项目案例版）》\n4-返回上一级\n请输入前面的序号：")
+                            c = input("1-《C++从入门到精通（项目案例版）》\n2-《C语言从入门到精通（项目案例版）》\n3-《Visual C++从入门到精通（项目案例版）》\n4-《C语言从入门到精通》\n5-返回上一级\n请输入前面的序号：")
                             if c == "1":
                                 print("提取码（四位）：82²") # 提取码: 6724
                                 time.sleep(1)
@@ -63,7 +63,11 @@ while True:
                                 print("提取码（四位）：91²") # 提取码: 8281
                                 time.sleep(1)
                                 webbrowser.open("https://pan.baidu.com/s/1QhTz-nw_upccQr4BiBLNBw")
-                            elif c == "4":
+                            elif c=="4":
+                                print("提取码（四位）：25852(10)=?(16)") # 提取码：64FC
+                                time.sleep(1)
+                                webbrowser.open("https://pan.baidu.com/s/1n5DhyQe_GKnd0YQkeytEEg")
+                            elif c == "5":
                                 break
                             else:
                                 print("序号无效！")
